@@ -1,4 +1,12 @@
-### Hi there 👋
+#### Hi there 😄
+#### 🔭 I'm Magnus Firme. Bachelor's Social Communication. I have design and marketing experience, starting in the programming area.
+#### 🌱 I’m currently studying for a postgraduate degree in IT and obtaining specific certificates in programming.
+
+Here is some interesting information:
+
+My LinkedIn: https://www.linkedin.com/in/magnusfirme/
+
+#### 📫 Gonna we connect?
 
 <!--
 **magnusfirme/magnusfirme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
