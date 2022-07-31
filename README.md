@@ -1,6 +1,6 @@
 ### Hi there 😎
 #### 💻 I’m Magnus Firme. Bachelor’s Social Communication. I have great design experience and I’m starting in the technology area.
-#### 🎓 I’m currently studying for a postgraduate degree in IT and obtaining specific certificates in programming.
+#### 📚 I’m currently studying for a postgraduate degree in IT and obtaining specific certificates in programming.
 
 ##
 
