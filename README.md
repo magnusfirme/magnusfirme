@@ -1,24 +1,17 @@
-#### Hi there 😄
-#### 🔭 I’m Magnus Firme. Bachelor’s Social Communication. I have great design experience and I’m starting in the technology area.
-#### 🌱 I’m currently studying for a postgraduate degree in IT and obtaining specific certificates in programming.
+### Hi there 😎
+#### 💻 I’m Magnus Firme. Bachelor’s Social Communication. I have great design experience and I’m starting in the technology area.
+#### 🎓 I’m currently studying for a postgraduate degree in IT and obtaining specific certificates in programming.
 
-Here is some interesting information:
+##
 
-My LinkedIn: https://www.linkedin.com/in/magnusfirme/
+<div align="center">
+  <a href="https://github.com/magnusfirme">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magnusfirme&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magnusfirme&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-#### 📫 Gonna we connect?
-
-<!--
-**magnusfirme/magnusfirme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+Gonna we connect?👋
